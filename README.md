@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lyhuoy</h1>
-<h3 align="center">A passionate Mobile Developer specification in React Native and Flutter</h3>
+<h3 align="center">A passionate Frontend/Mobile Developer.</h3>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
