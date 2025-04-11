@@ -4,7 +4,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img alt="github-snake" src="assets/github-snake.svg" />
+<!--   <img alt="github-snake" src="assets/github-snake.svg" /> -->
 </picture>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyhuoy&label=Profile%20views&color=0e75b6&style=flat" alt="lyhuoy" /> </p>
