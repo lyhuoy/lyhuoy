@@ -7,7 +7,9 @@
   <img alt="github-snake" src="assets/github-snake.svg" />
 </picture>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyhuoy&label=Profile%20views&color=0e75b6&style=flat" alt="lyhuoy" /> </p>
+<img alt="You may have a screen reader, but you still got rick rolled. Yes, this is a gif of Rick Astley's famous &quot;Never Gonna Give You Up&quot;." src="https://github.com/poteto/poteto/blob/master/nice.gif?raw=true" width="100%">
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=lyhuoy&label=Profile%20views&color=0e75b6&style=flat" alt="lyhuoy" /> </p>
 
 - 🧑‍💻 I’m always looking to collaborate on open-source projects
 
