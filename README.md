@@ -1,4 +1,52 @@
+Hi there 👋
 
+I'm a Full Stack Developer who enjoys building modern web and mobile applications. I like creating clean UI, solving real problems, and learning better ways to build scalable apps.
+
+🚀 About Me
+💻 Full Stack Developer
+🌐 Web & Mobile App Development
+⚡ Focused on performance, clean architecture, and good user experience
+📚 Always learning and improving
+☕ Turning ideas into real products
+🛠️ Tech Stack
+Frontend
+React.js
+Next.js
+Vue.js
+React Native
+TypeScript
+JavaScript
+Tailwind CSS
+Vuetify
+Shadcn UI
+Backend
+Nest.js
+REST API
+Java Spring Boot
+Database
+PostgreSQL
+MySQL
+Firebase
+State Management & Tools
+Zustand
+React Query
+Redux
+Git & GitHub
+Docker
+Mobile
+React Native
+Expo
+🎯 Interests
+Full Stack Development
+Mobile Applications
+UI/UX Design
+System Design
+Clean Code & Best Practices
+📫 Connect With Me
+Telegram: [your-github-link](https://t.me/lyhuoy)
+LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/lyhuoy-in-6a5963223/)
+
+⭐ Thanks for visiting my profile!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
