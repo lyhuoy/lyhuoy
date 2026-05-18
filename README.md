@@ -11,7 +11,7 @@ I love creating clean UI, solving real-world problems, and learning new technolo
 - 🌐 Web & Mobile Development
 - ⚡ Passionate about performance and clean code
 - 📚 Always learning and improving
-- ☕ Building ideas into real products
+- ☕ Turning ideas into real products
 
 ---
 
