@@ -67,8 +67,8 @@ I love creating clean UI, solving real-world problems, and learning new technolo
 
 ## 📫 Connect With Me
 
-- Telegram: [your-github-link](https://t.me/lyhuoy)
-- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/lyhuoy-in-6a5963223)
+- Telegram: https://t.me/lyhuoy
+- LinkedIn: https://www.linkedin.com/in/lyhuoy-in-6a5963223
 
 ---
 
