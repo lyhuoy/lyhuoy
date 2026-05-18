@@ -1,50 +1,76 @@
-Hi there 👋
+# Hi there 👋
 
-I'm a Full Stack Developer who enjoys building modern web and mobile applications. I like creating clean UI, solving real problems, and learning better ways to build scalable apps.
+I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
+I love creating clean UI, solving real-world problems, and learning new technologies.
 
-🚀 About Me
-💻 Full Stack Developer
-🌐 Web & Mobile App Development
-⚡ Focused on performance, clean architecture, and good user experience
-📚 Always learning and improving
-☕ Turning ideas into real products
-🛠️ Tech Stack
-Frontend
-React.js
-Next.js
-Vue.js
-React Native
-TypeScript
-JavaScript
-Tailwind CSS
-Vuetify
-Shadcn UI
-Backend
-Nest.js
-REST API
-Java Spring Boot
-Database
-PostgreSQL
-MySQL
-Firebase
-State Management & Tools
-Zustand
-React Query
-Redux
-Git & GitHub
-Docker
-Mobile
-React Native
-Expo
-🎯 Interests
-Full Stack Development
-Mobile Applications
-UI/UX Design
-System Design
-Clean Code & Best Practices
-📫 Connect With Me
-Telegram: [your-github-link](https://t.me/lyhuoy)
-LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/lyhuoy-in-6a5963223/)
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer
+- 🌐 Web & Mobile Development
+- ⚡ Passionate about performance and clean code
+- 📚 Always learning and improving
+- ☕ Building ideas into real products
+
+---
+
+## 🛠️ Skills
+
+### Frontend
+- React.js
+- Next.js
+- Vue.js
+- React Native
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- Vuetify
+- Shadcn UI
+
+### Backend
+- Node.js
+- Nestjs
+- Java Spring Boot
+- REST API
+
+### Database
+- PostgreSQL
+- MySQL
+- Firebase
+
+### Tools & Others
+- Git & GitHub
+- Docker
+- Zustand
+- Redux
+- React Query
+
+---
+
+## 📱 Mobile Development
+
+- React Native
+- Expo
+
+---
+
+## 🎯 Interests
+
+- Full Stack Development
+- Mobile Applications
+- UI/UX
+- System Design
+- Clean Architecture
+
+---
+
+## 📫 Connect With Me
+
+- Telegram: [your-github-link](https://t.me/lyhuoy)
+- LinkedIn: [your-linkedin-link](https://www.linkedin.com/in/lyhuoy-in-6a5963223)
+
+---
 
 ⭐ Thanks for visiting my profile!
 
