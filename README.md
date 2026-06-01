@@ -1,5 +1,4 @@
 # Hi there 👋
-
 <!--
 I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
 I love creating clean UI, solving real-world problems, and learning new technologies.
