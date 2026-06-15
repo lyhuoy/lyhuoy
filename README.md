@@ -1,7 +1,7 @@
 # Hi there 👋
 A passionate developer experienced in web and mobile development.
 
-<img align="right" style="margin-left: 50px;" height="150" src="[https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif](https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif)" />
+<img align="right" style="margin-left: 50px;" height="150" src="https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif" />
 <!--
 I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
 I love creating clean UI, solving real-world problems, and learning new technologies.
