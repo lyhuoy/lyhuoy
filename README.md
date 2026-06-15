@@ -1,4 +1,9 @@
 # Hi there 👋
+
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lyhuoy&show_icons=true&locale=en&layout=compact" alt="lyhuoy" />
+</p>
 <!--
 I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
 I love creating clean UI, solving real-world problems, and learning new technologies.
