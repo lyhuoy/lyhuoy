@@ -1,10 +1,7 @@
 # Hi there 👋
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-  <img alt="github-snake" src="assets/github-snake.svg" />
-</picture>
+Passionate fdeveloper with expertise in web and mobile development.
 
+<img align="right" style="margin-left: 50px;" height="150" src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" />
 <!--
 I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
 I love creating clean UI, solving real-world problems, and learning new technologies.
