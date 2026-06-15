@@ -1,5 +1,5 @@
 # Hi there 👋
-Passionate fdeveloper with expertise in web and mobile development.
+A passionate developer experienced in web and mobile development.
 
 <img align="right" style="margin-left: 50px;" height="150" src="https://media.tenor.com/GVbLnw73qD8AAAAi/dancing-duck-karlo.gif" />
 <!--
