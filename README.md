@@ -1,5 +1,5 @@
 # Hi there 👋
-A passionate developer experienced in both web and mobile development.
+just a simple developer.
 
 <img align="right" style="margin-left: 50px;" height="150" src="https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif" />
 <!--
