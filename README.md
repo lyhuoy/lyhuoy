@@ -2,6 +2,9 @@
 just a simple developer.
 
 <img align="right" style="margin-left: 50px;" height="150" src="https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif" />
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=lyhuoy)
+
 <!--
 I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
 I love creating clean UI, solving real-world problems, and learning new technologies.
