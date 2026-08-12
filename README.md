@@ -1,5 +1,5 @@
 # Hi there 👋
-just another dev from the corner of the world.
+
 
 <img align="right" style="margin-left: 50px;" height="150" src="https://images.hitpaw.com/topics/gif-tips/duck-transparent-gif.gif" />
 
@@ -7,6 +7,7 @@ just another dev from the corner of the world.
 I'm a Full Stack Developer who enjoys building modern web and mobile applications.  
 I love creating clean UI, solving real-world problems, and learning new technologies.
 
+just another dev from the corner of the world.
 ---
 
 ## 🚀 About Me
